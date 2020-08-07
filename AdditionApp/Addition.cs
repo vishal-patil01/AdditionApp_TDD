@@ -6,7 +6,7 @@ namespace AdditionApp
     {
         public static int sum(int firstNumber,int secondNumber)
         {
-            return 0;
+            return firstNumber + secondNumber;
         }
     }
 }
